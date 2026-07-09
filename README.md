@@ -103,6 +103,60 @@ npm run dev
 - Role-Based Access Control
 - Cloud Storage Integration
 
+## Application Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Services
+
+![Services](screenshots/services.png)
+
+### NRI Services
+
+![NRI](screenshots/nri-services.png)
+
+### Rural Services
+
+![Rural](screenshots/rural-services.png)
+
+### Government Services
+
+![Government](screenshots/government-services.png)
+
+### Process
+
+![Process](screenshots/process.png)
+
+### Contact Form
+
+![Contact](screenshots/contact-form.png)
+
+### Register
+
+![Register](screenshots/register.png)
+
+### Client Login
+
+![Client Login](screenshots/client-login.png)
+
+### Admin Login
+
+![Admin Login](screenshots/admin-login.png)
+
+### Client Dashboard
+
+![Client Dashboard](screenshots/client-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Upload Document
+
+![Upload Document](screenshots/upload-document.png)
+
 ## Developer
 
 **Niranjan H R**

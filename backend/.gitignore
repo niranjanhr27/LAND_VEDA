@@ -1,0 +1,10 @@
+run.bat
+run.bat.txt
+target/
+*.class
+*.log
+.classpath
+.project
+.settings/
+uploads/
+backend/bin/

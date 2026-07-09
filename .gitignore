@@ -1,0 +1,12 @@
+node_modules/
+.idea/
+.vscode/
+frontend/node_modules/
+frontend/dist/
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/run.bat.txt
+backend/uploads/
+*.log

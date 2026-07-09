@@ -82,6 +82,27 @@ npm install
 npm run dev
 ```
 
+## Project Workflow
+
+1. Client registers using a mobile number.
+2. OTP verification is completed.
+3. Client logs into the dashboard.
+4. Admin manages client accounts.
+5. Clients upload property-related documents.
+6. Admin reviews and manages uploaded documents.
+7. Clients can access and download approved documents.
+
+## Future Enhancements
+
+- Property Image Gallery
+- Google Maps Integration
+- SMS OTP Service
+- Email Notifications
+- Payment Gateway
+- Advanced Search & Filters
+- Role-Based Access Control
+- Cloud Storage Integration
+
 ## Developer
 
 **Niranjan H R**

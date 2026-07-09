@@ -10,3 +10,4 @@ backend/.settings/
 backend/run.bat.txt
 backend/uploads/
 *.log
+backend/bin/
